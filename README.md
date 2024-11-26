@@ -1,4 +1,4 @@
-#Task TRACKER CLI
+# TASK TRACKER CLI
 
 ## COMMANDS:
 * add "\<task-name\>"
